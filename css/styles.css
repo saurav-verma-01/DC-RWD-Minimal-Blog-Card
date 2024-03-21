@@ -22,12 +22,12 @@ body {
 
 .card {
   width: 100%;
-  max-width: 21rem;
+  max-width: 22rem;
   border-radius: 0.5rem;
   box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
   padding: 1rem 1rem 1.25rem;
   color: #6c727f;
-  background-color: #fafaf9;
+  background-color: #fff;
   position: relative;
 }
 
@@ -41,7 +41,7 @@ body {
 
 .tag {
   font-size: 0.625rem;
-  font-weight: bold;
+  font-weight: 400;
   color: #883ae1;
   background-color: #e6d6fc;
   border-radius: 50px;
@@ -52,7 +52,7 @@ body {
 
 .title {
   font-size: 1.125rem;
-  font-weight: bold;
+  font-weight: 500;
   color: #20293a;
 }
 
